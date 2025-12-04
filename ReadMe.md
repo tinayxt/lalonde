@@ -141,3 +141,10 @@ This project is a replication and extension of the LaLonde (1986) analysis, buil
 **Replication Goal:** I plan to replicate **Table 3 (Estimates of the NSW Treatment Effect on Real Earnings in 1978)**, focusing on the OLS specifications using the experimental data (NSW treated vs. NSW control).
 
 **Extension Analysis:** I will perform a robustness check by implementing a **Propensity Score Matching (PSM)** analysis, comparing the experimental NSW treated group to a non-experimental comparison group (e.g., CPS-1). This addresses the original paper's concern regarding selection bias.
+## My Replication and Contribution
+
+This project is a replication and extension of the LaLonde (1986) analysis, building upon the `xuyiqing/lalonde` repository.
+
+**Replication Goal:** I plan to replicate **Table 3 (Estimates of the NSW Treatment Effect on Real Earnings in 1978)**, focusing on the OLS specifications using the experimental data (NSW treated vs. NSW control).
+
+**Extension Analysis:** I will perform a robustness check by implementing a **Propensity Score Matching (PSM)** analysis, comparing the experimental NSW treated group to a non-experimental comparison group (e.g., CPS-1). This addresses the original paper's concern regarding selection bias.
